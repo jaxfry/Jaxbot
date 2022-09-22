@@ -1,0 +1,9 @@
+{
+    "ip": "0b0t.org",
+    "username": "email@example.com",
+    "version": "1.12.2",
+    "Dtoken": "discordToken",
+    "ChannelID": "discordId",
+    "prefix": "-",
+    "password": "Password1234!"
+}
