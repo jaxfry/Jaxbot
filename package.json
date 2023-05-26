@@ -42,7 +42,7 @@
     "macaddress": "^0.5.3",
     "minecraft-data": "^3.11.0",
     "minecraft-folder-path": "^1.2.0",
-    "minecraft-protocol": "^1.36.1",
+    "minecraft-protocol": "^1.41.2",
     "mineflayer": "^4.4.0",
     "mineflayer-pathfinder": "^2.3.3",
     "mojangson": "^2.0.2",
