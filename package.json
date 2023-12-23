@@ -40,7 +40,7 @@
     "lodash.once": "^4.1.1",
     "lodash.reduce": "^4.6.0",
     "macaddress": "^0.5.3",
-    "minecraft-data": "^3.11.0",
+    "minecraft-data": "^3.33.0",
     "minecraft-folder-path": "^1.2.0",
     "minecraft-protocol": "^1.36.2",
     "mineflayer": "^4.4.0",
