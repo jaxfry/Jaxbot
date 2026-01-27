@@ -28,7 +28,7 @@
     "jsonwebtoken": "^8.5.1",
     "jwa": "^1.4.1",
     "jws": "^3.2.2",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "lodash.get": "^4.4.2",
     "lodash.includes": "^4.3.0",
     "lodash.isboolean": "^3.0.3",
